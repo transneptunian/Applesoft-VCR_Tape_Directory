@@ -31,3 +31,10 @@ One of several Applesoft programs I wrote between 1985-1989 that utilized this G
 Two Applesoft and two binary files need to be transfered to a Apple ][ compatible disk image and saved. There are several ways to this depending on your platform and tools. Using a Mac and Virtual ][, I copy & paste the Applesoft programs to the computer and save them manually. For the binaries I mount a folder as a DOS diskette and set the filetype to Binary, strip prefix. With this folder mounted as Drive 2, I use a copy utility to move them to my destination disk image. There are other ways.
 
 a .DSK image is also available in the image folder
+
+### Screenshots
+![Main](https://raw.githubusercontent.com/transneptunian/Applesoft-VCR_Tape_Directory/master/screenshots/main-screen.png)
+
+
+
+![Browse](https://raw.githubusercontent.com/transneptunian/Applesoft-VCR_Tape_Directory/master/screenshots/browse.png)
