@@ -14,7 +14,7 @@ It consists of 4 pieces. The main program, a launcher program, a graphical font 
 * Print reports
 * More?
 
-The GUI interface library, WINDOW SHOW, was written by Stephen Lew and published in Nibble Magazine, Vol 7 No. 7, July 1986. Copyright 1986 Microsparc Inc. The binary file is freely available online at nibblemagazine.com in the disk image section.  Consider ordering the compete collection of Nibble Magazine and read a piece of computer history!
+The GUI interface library, WINDOW SHOW, was written by Stephen Lew and published in Nibble Magazine, Vol. 7 No. 7, July 1986. Copyright 1986 Microsparc Inc. The binary file is freely available online at www.nibblemagazine.com in the disk image section.  Consider ordering the compete collection of Nibble Magazine and read a piece of computer history!
 
 The font used is not the one supplied by the Nibble Magazine article. That can be obtained from the disk image mentioned above. After over 30 years, I have forgotten where it came from. Since it's a semi-standard font binary used on Apple ]['s to display graphical fonts, it may have come from the Apple DOS Toolkit or some other font disk. Other font sets of a compatibile size could be used instead. Experiment!
 
